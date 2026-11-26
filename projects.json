@@ -1,0 +1,4 @@
+{
+  "launcher": { "repository": "CCBlueX/LiquidLauncher", "english": "en.json" },
+  "liquidbounce": { "repository": "CCBlueX/LiquidBounce", "english": "en_us.json" }
+}
